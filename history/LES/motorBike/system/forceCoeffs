@@ -21,9 +21,9 @@ forces
     dragDir         (1 0 0);
     CofR            (0.72 0 0);  // Axle midpoint on ground
     pitchAxis       (0 1 0);
-    magUInf         8.33;
-    lRef            2.5;        // Wheelbase length
-    Aref            0.89;        // Estimated
+    magUInf         20;
+    lRef            1.42;        // Wheelbase length
+    Aref            0.75;        // Estimated
 }
 
 

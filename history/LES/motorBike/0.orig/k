@@ -37,7 +37,7 @@ boundaryField
         type            kqRWallFunction;
         value           uniform 0.24;
     }
-    "motorBike.*"
+    "motorBike_.*"
     {
         type            kqRWallFunction;
         value           uniform 0.24;

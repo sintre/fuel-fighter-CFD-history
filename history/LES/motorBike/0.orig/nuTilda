@@ -37,7 +37,7 @@ boundaryField
         type            fixedValue;
         value           uniform 0;
     }
-    "motorBike.*"
+    "motorBike_.*"
     {
         type            fixedValue;
         value           uniform 0;
